@@ -1,4 +1,4 @@
 # data-mining-examples
-This project was completed as part of Assignment 2 for the subject IFQ509 Data Exploration and Mining./n
+This project was completed as part of Assignment 2 for the subject IFQ509 Data Exploration and Mining.  
 In this project, descriptive and predictive mining techniques were applied to 3 different datasets to provide insights or make predictions. 
 Association analysis was performed on a set of transactions from an online retail store and generated a range of association rules, providing insights into which items from the online stores are frequently purchased together. Clustering analysis was used on covid-19 epidemiological data to group countries with similar containment strategies across 2 months in 2020. Finally, 3 different predictive data mining models were applied to meteorological observations from the Bureau of Meteorology, and were used to predict whether or not it will rain tomorrow.
